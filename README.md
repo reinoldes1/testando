@@ -3,5 +3,5 @@
 >um monte de baboseira
 
 ```
-Olha eu sou legal
+node app.js
 ```
